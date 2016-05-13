@@ -143,7 +143,15 @@ video{
 .PagesContent{
 	text-align: center;
 	color: white;
-	margin-top: 7%;
+	margin-top: 17%;
+	margin-left: 10%;
 	font-family: Ritagio;
-	font-size: 15pt;
+	font-size: 17pt;
+	padding-left: 45%;
+	padding-right: 10%;
+}
+.floatLeft{
+	float:left;
+	margin-top: 5%;
+	margin-left: 5%;
 }
